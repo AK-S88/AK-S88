@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ak-s88.github.io/AKS/](https://ak-s88.github.io/AKS/)
 
-- 📫 How to reach me **aks.abhi03@gmail.com**
+- 📫 How to reach me **aks88abhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
