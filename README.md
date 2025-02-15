@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **doing my Master of Science in Business Analytics with a specialization in Big Data at University of Massachusetts, Lowell**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently working towards a certification in **Tableau**
 
 - 👨‍💻 All of my projects are available at [https://ak-s88.github.io/AKS/](https://ak-s88.github.io/AKS/)
 
