@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
-<h3 align="center">A passionate data professional from India</h3>
+<h3 align="center">A passionate business data professional interested in Finance, Supply Chain & Project Management.</h3>
 
 - 🔭 I’m currently **doing my Master of Science in Business Analytics with a specialization in Big Data at University of Massachusetts, Lowell**
 
