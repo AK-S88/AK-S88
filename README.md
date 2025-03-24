@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate business data professional interested in Finance, Supply Chain & Project Management.</h3>
 
-- 🔭 I’m currently **doing my Master of Science in Business Analytics with a specialization in Big Data at University of Massachusetts, Lowell**
+- 🔭 I’m currently doing my **Master of Science in Business Analytics with a concentration in Machine learning at University of Massachusetts, Lowell**
 
-- 🌱 I’m currently working towards a certification in **Tableau**
+- 🌱 I’m currently working towards a certification in **Databricks**
 
 - 👨‍💻 All of my projects are available at [https://ak-s88.github.io/AKS/](https://ak-s88.github.io/AKS/)
 
