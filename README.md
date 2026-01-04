@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate business data professional interested in Finance, Supply Chain & Project Management.</h3>
 
-- 🔭 I’m currently doing volunteering as a **Data Engineer** @ Holiday Channel.
+- 🔭 I’m currently volunteering as a **Data Engineer** @ Holiday Channel.
 
 - I graduated top of my class Last Summer with **Master of Science in Business Analytics ( Machine learning focus - 4.0 GPA) from University of Massachusetts, Lowell**
 
