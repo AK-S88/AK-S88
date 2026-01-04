@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate business data professional interested in Finance, Supply Chain & Project Management.</h3>
 
-- 🔭 I’m currently doing my **Master of Science in Business Analytics with a concentration in Machine learning at University of Massachusetts, Lowell**
+- 🔭 I’m currently doing volunteering as a **Data Engineer** @ Holiday Channel.
 
-- 🌱 I’m currently working towards a certification in **Databricks**
+- I graduated top of my class Last Summer with **Master of Science in Business Analytics ( Machine learning focus - 4.0 GPA) from University of Massachusetts, Lowell**
+
+- 🌱 I’m currently working towards a certification in **FMVA** from CFI.
 
 - 👨‍💻 All of my projects are available at [https://ak-s88.github.io/AKS/](https://ak-s88.github.io/AKS/)
 
